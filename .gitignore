@@ -1,0 +1,6 @@
+# ignore all .csv and post just ipynb
+*.csv
+# ignore template for data preprocessing
+template.ipynb
+# ignore the directories
+/.idea
