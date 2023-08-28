@@ -4,3 +4,4 @@
 template.ipynb
 # ignore the directories
 /.idea
+final_project/catboost_info
